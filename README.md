@@ -1,3 +1,5 @@
+![Brxken's github stats](https://github-readme-stats.vercel.app/api?username=brxkendev)
+
 ### Hello there, im BrxkenDev 👋
 
 - 🔭 I’m currently working on Member Bot
@@ -5,4 +7,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord
 -->
-![Brxken's github stats](https://github-readme-stats.vercel.app/api?username=brxkendev)]
