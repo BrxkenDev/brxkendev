@@ -1,3 +1,7 @@
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/brxkendev/brxkendev"></a>
+</p>
+
 ![Brxken's github stats](https://github-readme-stats.vercel.app/api?username=brxkendev)
 
 **Languages and Tools:**  
