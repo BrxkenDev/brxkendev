@@ -8,10 +8,11 @@
 <a href="https://github.com/BrxkenDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brxkendev&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/BrxkenDev">
-  
-  
-  
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/brxkendev/brxkendev"></a>
+</p>
+
 ### Hello there, im BrxkenDev 👋
 
 - 🔭 I’m currently working on Member Bot
