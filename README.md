@@ -1,12 +1,11 @@
 ## Hello, My name is Evan Hanna
+<a href="https://discord.gg/TgwHKd9">
+  <img align="left" alt="Member Bot Support" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/brxkendev/brxkendev"></a>
 </p>
-
-<a href="https://discord.gg/TgwHKd9">
-  <img align="center" alt="Member Bot Support" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 
 ![Brxken's github stats](https://github-readme-stats.vercel.app/api?username=brxkendev)
 
