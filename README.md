@@ -13,11 +13,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brxkendev&theme=light&hide_langs_below=1" />
 </a>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/brxkendev/brxkendev"></a>
-</p>
+
 
 ### Hello there, im BrxkenDev 👋
+<a href
+ ="https://discord.gg/TgwHKd9">
+  <img align="left" alt="Member Bot Support" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 
 - 🔭 I’m currently working on Member Bot
 - 👯 I’m looking to collaborate on anything
