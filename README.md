@@ -3,7 +3,7 @@
   <img align="left" alt="Member Bot Support" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
-<p align='center'>
+<p align="left">
   <a href="#"><img src="https://badges.pufler.dev/visits/brxkendev/brxkendev"></a>
 </p>
 
