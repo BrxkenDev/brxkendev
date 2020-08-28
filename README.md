@@ -1,7 +1,5 @@
 ![Brxken's github stats](https://github-readme-stats.vercel.app/api?username=brxkendev)
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@V3
-
+https://github-readme-stats-lovat-three.vercel.app/
 ### Hello there, im BrxkenDev 👋
 
 - 🔭 I’m currently working on Member Bot
