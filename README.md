@@ -1,3 +1,5 @@
+## Hello, My name is Evan Hanna
+
 <p align='right'>
   <a href="#"><img src="https://badges.pufler.dev/visits/brxkendev/brxkendev"></a>
 </p>
@@ -17,17 +19,3 @@
 <a href="https://github.com/BrxkenDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brxkendev&theme=light&hide_langs_below=1" />
 </a>
-
-
-
-### Hello there, im BrxkenDev 👋
-<a href
- ="https://discord.gg/TgwHKd9">
-  <img align="left" alt="Member Bot Support" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-
-- 🔭 I’m currently working on Member Bot
-- 👯 I’m looking to collaborate on anything
-- 💬 Ask me about anything
-- 📫 How to reach me: Discord
--->
